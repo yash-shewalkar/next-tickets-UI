@@ -1,3 +1,6 @@
+[![Watch the video](https://raw.githubusercontent.com/yash-shewalkar/next-tickets-UI/main/thumbnail.png)](https://raw.githubusercontent.com/yash-shewalkar/next-tickets-UI/main/assignment.mp4)
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
